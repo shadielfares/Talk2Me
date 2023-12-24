@@ -19,7 +19,8 @@
         "template"
     ],
     "contributors": {
-       "Shadi El-Fares (https://github.com/shadielfares)"
+       "Shadi El-Fares (https://github.com/shadielfares)",
+        "Furqaan Qamar (https://github.com/furqaankhurram)"
     }
     "license": "MIT",
     "dependencies": {
