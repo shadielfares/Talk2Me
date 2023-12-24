@@ -1,6 +1,4 @@
 {
-    "title": "Modern Business",
-    "name": "startbootstrap-modern-business",
     "version": "5.0.7",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
@@ -12,7 +10,6 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A multipurpose HTML website template built with Bootstrap",
     "keywords": [
         "css",
         "sass",
@@ -21,11 +18,6 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/modern-business",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-modern-business/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
     "dependencies": {
         "bootstrap": "5.2.3"
