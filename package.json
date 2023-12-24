@@ -18,6 +18,9 @@
         "theme",
         "template"
     ],
+    "contributors": {
+        https://github.com/shadielfares, 
+    }
     "license": "MIT",
     "dependencies": {
         "bootstrap": "5.2.3"
